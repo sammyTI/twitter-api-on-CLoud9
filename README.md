@@ -6,7 +6,8 @@
 2. ターミナルにて下記のコマンドを順番に実行しライブラリをインストール<br>
 `$ gem install bundle` <br>
 `$ bundle`
-3. 下記コマンドでapp.rbを実行<br>
+3. key.rbに各種キーを入力
+4. 下記コマンドでapp.rbを実行<br>
 `$ruby app.rb`
 
 ## おまけ
