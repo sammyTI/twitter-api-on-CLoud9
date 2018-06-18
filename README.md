@@ -13,3 +13,4 @@
 `client.update("Test tweet from twitter-api with ruby\nby @sammyo_official")`<br>
 `user = client.user("sammyo_official")`<br>
 上記の二つのコードがapp.rbにあるかと思いますがそれぞれのダブルクォーテーション(" ")の中の文字を入れ替えたりユーザー名にしてみたり色々試してみてください。
+あとこのサイトが神➞https://loumo.jp/wp/archive/20150916000032/#Twitter_API
